@@ -32,7 +32,7 @@ Determining which wine attributes are related to customers rating wines as good 
 
 ### Final Insights
 
-If I were addressing this as a business problem such as what kind of wine to produce based on this data, I would make the following conclusions. First, wines that receive good reviews are high in alcohol content(corr_coef: 0.44)<sup>1</sup>, have fixed acidity(corr_coef: 0.48)<sup>2</sup> and are sweet(corr_coef: 0.22)<sup>3</sup>. Meanwhile, wines that received bad reviews are high in chlorides (corr_coef: -7.73)<sup>4</sup>, high in volatile acidity (corr_coef: -3.57)<sup>5</sup>, and are more dense(corr_coef: -0.27)<sup>6</sup>
+If I were addressing this as a business problem such as what kind of wine to produce based on this data, I would make the following conclusions. Wines that receive good reviews are high in alcohol content(corr_coef: 0.44)<sup>1</sup>, have fixed acidity(corr_coef: 0.48)<sup>2</sup> and are sweet(corr_coef: 0.22)<sup>3</sup>. Meanwhile, wines that received bad reviews are high in chlorides (corr_coef: -7.73)<sup>4</sup>, high in volatile acidity (corr_coef: -3.57)<sup>5</sup>, and are more dense(corr_coef: -0.27)<sup>6</sup>
 
 Ref. 1
 
